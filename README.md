@@ -4,6 +4,8 @@ This project explores two popular techniques for sentiment analysis in Python:
 VADER (Valence Aware Dictionary and sEntiment Reasoner): A lexicon-based approach that assigns sentiment scores (positive, neutral, negative) to text based on pre-defined word polarities and rules.
 RoBERTa Pretrained Model from Transformers: A deep learning approach utilizing a pre-trained RoBERTa model to classify sentiment based on contextual understanding of the text.
 
+The Dataset used is Amazon Food review Dataset from the Kaggle
+
 VADER (Lexicon-Based Approach):
 
 VADER leverages a sentiment lexicon containing words and phrases associated with positive, negative, or neutral sentiment.
